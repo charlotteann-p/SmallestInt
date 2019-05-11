@@ -1,0 +1,9 @@
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/obj/Debug/netstandard2.0/SmallestService.csprojAssemblyReference.cache
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/obj/Debug/netstandard2.0/SmallestService.csproj.CoreCompileInputs.cache
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/obj/Debug/netstandard2.0/SmallestService.AssemblyInfoInputs.cache
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/obj/Debug/netstandard2.0/SmallestService.AssemblyInfo.cs
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/bin/Debug/netstandard2.0/SmallestService.deps.json
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/bin/Debug/netstandard2.0/SmallestService.dll
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/bin/Debug/netstandard2.0/SmallestService.pdb
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/obj/Debug/netstandard2.0/SmallestService.dll
+/Users/charlottepowning/Downloads/TDD_Smallestint-master/SmallestService/obj/Debug/netstandard2.0/SmallestService.pdb

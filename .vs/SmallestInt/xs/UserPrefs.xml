@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{435081B8-FE72-4078-AC55-EE99C81BB3A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmallestService.Test/part1tests/test4.cs">
+    <Files>
+      <File FileName="SmallestService/Class1.cs" Line="31" Column="14" />
+      <File FileName="SmallestService.Test/UnitTest1.cs" Line="39" Column="45" />
+      <File FileName="SmallestService.Test/part1tests/test3.cs" Line="5" Column="4" />
+      <File FileName="SmallestService.Test/part1tests/test4.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmallestInt" expanded="True">
+            <Node name="SmallestService" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True">
+                  <Node name="NETStandard.Library" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="SmallestService.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Microsoft.NET.Test.Sdk" expanded="True" />
+                </Node>
+                <Node name="ProjectDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="part1tests" expanded="True">
+                <Node name="test4.cs" selected="True" />
+              </Node>
+              <Node name="part2tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="SmallestInt" expanded="True">
+            <Node name="SmallestService" expanded="True">
+              <Node name="SmallestService" expanded="True">
+                <Node name="SmallestService.Finder" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SmallestService.Test" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="SmallestService" selected="True" />
+              </Node>
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SmallestInt" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SmallestService.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
